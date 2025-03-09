@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:09-03-2025
+## Register Number:212224040103
+## Name:HARISELVAN S
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,38 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+1.Use Conversational AI to conduct semi-automated interviews, simulating a real panel experience
+
+2.AI can adapt the difficulty level of questions based on candidate responses, ensuring an engaging and fair evaluation.
+
+3.Develop a domain-specific question bank that expands with Machine Learning (ML) models.
+
+4.AI can contextually generate new questions by analyzing candidate responses and DRDO’s research areas.
+
+5.AI-generated detailed reports showing strengths, weaknesses, and suitability scores.
 
 
 ## Proposed Solution / Architecture Diagram
+![ai interview diagram](https://github.com/user-attachments/assets/354c7404-ff34-473c-9ff7-06bc639e2a45)
 
 
 ## Use Cases
+![web ai interview uses](https://github.com/user-attachments/assets/9b92c56e-0762-4654-91ce-6aea1244e0e0)
 
 
 ## Technology Stack
+front-end
 
+back-end
+
+AI models
+
+database and deployment
 
 ## Dependencies
+Mapping service- 10 days
+
+Data collection- 30 days
+
+budget- rs.60,000-100,000
 
